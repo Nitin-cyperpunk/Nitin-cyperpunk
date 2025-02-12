@@ -8,7 +8,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <p align="left">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="50">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="50">
@@ -34,8 +34,11 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=nitin-cyperpunk&show_icons=true&locale=en" alt="nitin-singh" />
 <br>
-
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin-cyperpunk&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Snake Animation:</h3>
 <p align="left">
@@ -49,7 +52,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-cyperpunk&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-singh" /> </p>
+<p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNitin-cyperpunk%2FNitin-cyperpunk&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

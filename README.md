@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm Nitin Singh</h1>
+<h1 align="left" id="typing-text">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, I'm Nitin Singh</h1>
+
+
 <h3 align="left">A Frontend Web developer</h3>
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300" height="300">
@@ -11,6 +13,7 @@
 
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+<br>
 <p align="left">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="50">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="50">
@@ -28,19 +31,29 @@
 <h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/nitinsingh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nitin singh" /></a></p><br><br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitin-cyperpunk&show_icons=true&locale=en&layout=compact" alt="nitin-singh" />
 
 <br>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-cyperpunk&show_icons=true&locale=en" alt="nitin-singh" />
-<br>
-</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin-cyperpunk&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nitin-Cyperpunk&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  <br>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin-cyperpunk&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
+
+  <br>
+  <br>
+  <br>
+
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated Line" />
+</div>
+
+
 
 <h3 align="left">Snake Animation:</h3>
 <p align="left">
@@ -51,6 +64,7 @@
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" alt="git" width="100">
 </p>
 

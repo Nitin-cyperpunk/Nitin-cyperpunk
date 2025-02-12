@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="html5" width="50">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="javascript" width="50"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 
 </p>
@@ -47,10 +47,6 @@
 
 
 
-<h3 align="left">Snake Animation:</h3>
-<p align="left">
-<img src="https://github.com/nitin-cyperpunk/nitin-singh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <h2 align="left">🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -73,6 +69,6 @@
 
 
 ![Snake animation Contribution Graph]
-(https://raw.githubusercontent.com/Nitin-cyperpunk/Nitin-cyperpunk/output/github-contribution-grid-snake-dark.svg)
+(https://raw.githubusercontent.com/nitin-cyperpunk/nitin-cyperpunk/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

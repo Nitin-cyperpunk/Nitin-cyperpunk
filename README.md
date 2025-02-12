@@ -68,4 +68,4 @@
 </p>
 
 
-![snake gif](https://github.com/nitin-cyperpunk/nitin-cyperpunk/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nitin-cyperpunk/nitin-cyperpunk/blob/output/github-contribution-grid-snake.svg)

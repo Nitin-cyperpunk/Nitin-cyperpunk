@@ -49,11 +49,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-singh&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-singh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-cyperpunk&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-singh" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/itsnitinsingh66/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 <a href="https://instagram.com/its_nitin_singh66" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+<a href="https://x.com/nitinsi24881275?s=21" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100"></a>
 
 </p>
+
+
+![Snake animation Contribution Graph]
+(https://raw.githubusercontent.com/Nitin-cyperpunk/Nitin-cyperpunk/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

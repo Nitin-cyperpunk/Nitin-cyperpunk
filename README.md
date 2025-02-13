@@ -1,15 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=35&duration=6000&pause=1000&color=51158C&random=true&width=450&height=100&lines=Hi+%2C+I'm+Nitin+Singh++%F0%9F%91%8B;A+Front-end+Web+Developer+%F0%9F%92%BB;CyberSecurity+++Enthusiast++%F0%9F%92%80)](https://git.io/typing-svg)
+<h1 align="left">Want to Know about me  more🤔</h1>
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300" height="300">
-<h3 align="left">A Frontend Web developer</h3>
-
 
 - 👨‍💻 let's get connect <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" />
 - ⚡ Fun fact **I am Introvert <img src="https://user-images.githubusercontent.com/74038190/216124372-27597c2f-74d4-4cef-993c-b27cab2ddc7f.png" alt="Astonished Face" width="30" />**
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/itsnitinsingh66/)
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/itsnitinsingh66/)
 - 🎮 **Hobbies**: 😴sleeping , hiking, and Exploring new technologies.
 
 
 
+
+<br>
 
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 

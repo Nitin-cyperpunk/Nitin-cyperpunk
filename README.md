@@ -50,10 +50,14 @@
  <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin-cyperpunk&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
+<br>
+<img src="https://leetcard.jacoblin.cool/Quirinusnitin9975?theme=unicorn&font=Happy%20Monkey&ext=activity" />
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
-![](https://leetcard.jacoblin.cool/Quirinusnitin9975?theme=unicorn)
+
 
 
 

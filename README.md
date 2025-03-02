@@ -45,10 +45,17 @@
 <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nitin-Cyperpunk&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 </div>
+<div align="right">
+  <img align="right" src="https://streak-stats.demolab.com/?user=Nitin-Cyperpunk&theme=dark">
+  
+</div>
   <br>
   <br>
  <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin-cyperpunk&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin-cyperpunk&theme=github-compact" />
 
 <br>
 <img src="https://leetcard.jacoblin.cool/Quirinusnitin9975?theme=unicorn&font=Happy%20Monkey&ext=activity" />

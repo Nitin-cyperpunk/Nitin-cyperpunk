@@ -79,7 +79,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" alt="git" width="100">
 </p>
 
+ - ![GitHub Followers](https://img.shields.io/github/followers/nitin-cyperpunk?style=social)
+- ![Profile Views](https://komarev.com/ghpvc/?username=Nitin-cyperpunk&color=blue)
 <p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNitin-cyperpunk%2FNitin-cyperpunk&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+
   <br><br></p>
 
 <h3 align="left">Connect with me:</h3>

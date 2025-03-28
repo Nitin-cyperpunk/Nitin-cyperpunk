@@ -94,4 +94,6 @@
 </p>
 
 
-![snake gif](https://github.com/nitin-cyperpunk/nitin-cyperpunk/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://github.com/nitin-cyperpunk/nitin-cyperpunk/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
